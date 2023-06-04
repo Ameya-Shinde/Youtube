@@ -127,8 +127,7 @@ main {
 
 .videoCardsContainer {
     width: 83vw;
-    height: 40vh;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     display: flex;
     justify-content: flex-start;
     overflow-x:auto;
@@ -154,4 +153,6 @@ main {
 .details p{
     color: rgb(74, 74, 74);
 }
+
+
 
