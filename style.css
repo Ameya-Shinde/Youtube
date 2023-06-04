@@ -5,10 +5,6 @@
     font-family: sans-serif;
 }
 
-body {
-    width: 100vw;
-    height: 100vh;
-}
 
 header {
     height: 10%;
@@ -109,14 +105,13 @@ main {
 
 .mainContentSection {
     height: 100%;
-    width: 85vw;
+    width: 100%;
     overflow-y: scroll;
 }
 
 .fixedCategoryContainer {
     width: 100%;
     height: 4vh;
-    margin-bottom: 15px;
     display: flex;
     align-items: center;
 }
